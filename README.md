@@ -37,6 +37,9 @@ The whole thing happens in Google Colab. You'll create a notebook, paste in a fe
 
 **6. Open it.** 🔗 In one more new cell, paste the last short block of code and run it. A clickable link appears. Click it, and the app opens in a new tab.
 
+## Architecture
+![AI incident response workflow](./incident_response_workflow_neon.svg)
+
 ## 🧪 Using the app
 
 **👉 One problem at a time:** Type a description of what's going wrong, click *Analyze*, and the results appear right away.
